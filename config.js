@@ -1,14 +1,1 @@
-module.exports = {
-    prefix: '.', // Set your command prefix
-    ownerName: 'Toxxic',
-    ownerNumber: '2348165846414', // Your WhatsApp number in international format
-    mode: 'private', // Default mode; can be 'public' or 'private'
-    region: 'Nigeria', 
-    botName: 'Rias Gremory V3', 
-    exifPack: 'RIAS V3 LOVES',  // The name of your sticker pack
-    exifAuthor: 'Toxxic',       // Your name or the author of the sticker pack
-    timeZone: 'Africa/Lagos',// Your Country Time Zone
-    presenceStatus: 'recording', // Default bot presence status (available, typing, recording, invisible)
-    autoRead: 'false', // true or false for autoread functions
-    autoViewStatus: 'false' //true or false for auto view status
-};
+function _0x39b8(_0x2e01c8,_0x28ccb7){var _0x12eb50=_0x12eb();return _0x39b8=function(_0x39b813,_0x43da72){_0x39b813=_0x39b813-0x13f;var _0x54504a=_0x12eb50[_0x39b813];return _0x54504a;},_0x39b8(_0x2e01c8,_0x28ccb7);}function _0x12eb(){var _0x2500f4=['118jePNHa','Nigeria','3226jErbZm','2247081duiLBm','recording','4817530deQdLb','627732CKmKAB','false','50yMsAjb','Africa/Lagos','Toxxic','6449864EkotlZ','4CvlxvE','7MKkwYl','3736233yZnDHi','40602419khcbXE','private'];_0x12eb=function(){return _0x2500f4;};return _0x12eb();}var _0x5054f0=_0x39b8;(function(_0x72a299,_0x35d315){var _0x2225fa=_0x39b8,_0x1d9ba8=_0x72a299();while(!![]){try{var _0x58ab7c=-parseInt(_0x2225fa(0x13f))/0x1*(parseInt(_0x2225fa(0x141))/0x2)+-parseInt(_0x2225fa(0x142))/0x3*(parseInt(_0x2225fa(0x14b))/0x4)+parseInt(_0x2225fa(0x147))/0x5*(-parseInt(_0x2225fa(0x145))/0x6)+parseInt(_0x2225fa(0x14c))/0x7*(-parseInt(_0x2225fa(0x14a))/0x8)+parseInt(_0x2225fa(0x14d))/0x9+-parseInt(_0x2225fa(0x144))/0xa+parseInt(_0x2225fa(0x14e))/0xb;if(_0x58ab7c===_0x35d315)break;else _0x1d9ba8['push'](_0x1d9ba8['shift']());}catch(_0xbab90c){_0x1d9ba8['push'](_0x1d9ba8['shift']());}}}(_0x12eb,0xcb4bb),module['exports']={'prefix':'.','ownerName':_0x5054f0(0x149),'ownerNumber':'2348165846414','mode':_0x5054f0(0x14f),'region':_0x5054f0(0x140),'botName':'Rias\x20Gremory\x20V3','exifPack':'RIAS\x20V3\x20LOVES','exifAuthor':_0x5054f0(0x149),'timeZone':_0x5054f0(0x148),'presenceStatus':_0x5054f0(0x143),'autoRead':_0x5054f0(0x146),'autoViewStatus':'false'});
